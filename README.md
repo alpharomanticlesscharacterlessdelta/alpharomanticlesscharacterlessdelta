@@ -1,4 +1,5 @@
-# > **Print("The User is DEADDDDDDDDDDDDD!!")**
+# > *Print("The User is DEADDDDDDDDDDDDD!!")*
+<div color="green">
 <pre>
 :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
@@ -21,6 +22,7 @@ Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 </pre>
+</div>
 
 
 Hi there, **I'm Umair**! 👋<br>I'm a full-stack & AI developer who loves building smart tools, experimenting with low-level systems, and diving into cybersecurity. When I'm not writing code, you’ll probably find me learning game dev or working out.<br><br>> *What I'm Up To*<br>I. AI & Systems: Building LLM/RAG pipelines, playing with open-source models, and writing Python.<br><br>II. Web & Mobile: Crafting responsive frontends with React & Next.js, powered by Node.js backends.<br><br>III. Cybersecurity: Exploring ethical hacking, penetration testing, and security tooling.<br><br>IV. Game Dev: Currently transitioning into C++ & C# to build open-world Unity projects.<br><br>> *Tech Stack*<br>Languages: Python, JavaScript, TypeScript, C++, C#<br><br>Frontend & Web: React, Next.js, React Native, HTML5, CSS3<br><br>Backend & AI: Node.js, PyTorch, REST APIs, PostgreSQL<br><br>Tools & OS: Linux (Kali), Git, Docker, Unity<br><br>> **Connect With Me**<br><br>GitHub: github.com/alpharomanticlesscharacterlessdelta<br><br>LinkedIn: linkedin.com/in/umair-imran404<br><br>"Always building, always breaking, always learning."
