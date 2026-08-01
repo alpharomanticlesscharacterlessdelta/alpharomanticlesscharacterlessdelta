@@ -1,6 +1,27 @@
-# > Print("The User is DEADDDDDDDDDDDDD!!")
+# > **Print("The User is DEADDDDDDDDDDDDD!!")**
 
-<img width="375" height="268" alt="image" src="https://github.com/user-attachments/assets/07b27a14-8500-4074-9112-42e34f06132f" />
+:::!~!!!!!:.
+                  .xUHWH!! !!?M88WHX:.
+                .X*#M@$!!  !X!M$$$$$$WWx:.
+               :!!!!!!?H! :!$!$$$$$$$$$$8X:
+              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
+             :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
+             ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
+               !:~~~ .:!M"T#$$$$WX??#MRRMMM!
+               ~?WuxiW*`   `"#$$$$8!!!!??!!!
+             :X- M$$$$       `"T#$T~!8$WUXU~
+            :%`  ~#$$$m:        ~!~ ?$$$$$$
+          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
+.....   -~~:<` !    ~?T#$$@@W@*?$$      /`
+W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
+#"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
+:::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
+.~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
+Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
+$R@i.~~ !     :   ~$$$$$B$$en:``
+?MXT@Wx.~    :     ~"##*$$$$M~
+
+
 Hi there, **I'm Umair**! 👋<br>I'm a full-stack & AI developer who loves building smart tools, experimenting with low-level systems, and diving into cybersecurity. When I'm not writing code, you’ll probably find me learning game dev or working out.<br><br>> *What I'm Up To*<br>I. AI & Systems: Building LLM/RAG pipelines, playing with open-source models, and writing Python.<br><br>II. Web & Mobile: Crafting responsive frontends with React & Next.js, powered by Node.js backends.<br><br>III. Cybersecurity: Exploring ethical hacking, penetration testing, and security tooling.<br><br>IV. Game Dev: Currently transitioning into C++ & C# to build open-world Unity projects.<br><br>> *Tech Stack*<br>Languages: Python, JavaScript, TypeScript, C++, C#<br><br>Frontend & Web: React, Next.js, React Native, HTML5, CSS3<br><br>Backend & AI: Node.js, PyTorch, REST APIs, PostgreSQL<br><br>Tools & OS: Linux (Kali), Git, Docker, Unity<br><br>> **Connect With Me**<br><br>GitHub: github.com/alpharomanticlesscharacterlessdelta<br><br>LinkedIn: linkedin.com/in/umair-imran404<br><br>"Always building, always breaking, always learning."
 
 
