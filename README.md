@@ -47,4 +47,5 @@ Hi there, **I'm Umair**! 👋<br>I'm a full-stack & AI developer who loves build
 ---
 [![](https://komarev.com/ghpvc/?username=alpharomanticlesscharacterlessdelta&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="800" height="150" alt="your_cool_intro" src="https://github.com/user-attachments/assets/d93fae23-1cb3-46af-a351-41e35d809b3c" />
+
