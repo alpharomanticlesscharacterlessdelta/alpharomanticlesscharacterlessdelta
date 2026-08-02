@@ -1,5 +1,6 @@
 # > *Print("The User is DEADDDDDDDDDDDDD!!")*
 <div color="green">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&multiline=true&width=500&height=200&lines=..%3A!~!!!!!%3A.;.xUHWH!!+!!%3FM88WHX%3A.)](https://git.io/typing-svg)
 <pre>
                       :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
